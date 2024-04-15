@@ -309,10 +309,7 @@ on a positive and open note
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/izazsarbudeen)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/izazsarbudeen)
 
-## Major projects:
 
- - <b>DEVH - </b> [devh.in](https://devh.in)
- - <b>DEVH API - </b> [api.devh.in](https://api.devh.in)
 
 <details>
   <summary><h2>List Of all Projects (repo/link)</h2></summary>
@@ -322,41 +319,7 @@ on a positive and open note
 
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats:
 
-<picture>
-<source
-  srcset="https://fork-readme-stats.vercel.app/api?username=s4tyendra&show_icons=true&theme=dark&range=all_time&show_icons=true&bg_color=00000000&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://fork-readme-stats.vercel.app/api?username=s4tyendra&show_icons=true&range=all_time&show_icons=true&bg_color=00000000&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://fork-readme-stats.vercel.app/api?username=s4tyendra&show_icons=true&range=all_time" />
-</picture>
-
-
-
-<!-- ![](https://fork-readme-stats.vercel.app/api?username=s4tyendra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=s4tyendra&theme=transparent&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500&background=10%2C05032F41%2C690B6352&stroke=FFFFFF&ring=EBE728&fire=EB6B04)<br/>
-
-![](https://fork-readme-stats.vercel.app/api/top-langs/?username=s4tyendra&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=s4tyendra&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-<!-- ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=s4tyendra)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Top%20Arrow.png" alt="Top Arrow" width="25" height="25" /> Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=s4tyendra&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <!-- ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/> -->
