@@ -9,7 +9,7 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" /> About Me:
 
-I'm Satyendra, a full stack developer from India currently pursuing my studies at IIIT Kota.<br>
+I'm Izaz Sarbudeen , Bot developer from India currently Working In IJL .<br>
 My passions are creating projects that make a positive impact and learning new technologies. <br>
 I love challenges that push me to learn and grow.<br>
 
