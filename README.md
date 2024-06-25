@@ -3,7 +3,7 @@
 
 <a style="cursor:default;" href="https://" target="_blank">
 <p align="center">
-<img src="https://telegra.ph/file/1c0b33092862f726dbffb.jpg" alt="Cowboy Hat Face" width="500" align="" height="400" />
+<img src="https://telegra.ph/file/1c0b33092862f726dbffb.jpg" alt="Cowboy Hat Face" width="400" align="" height="700" />
 </p>
 </a>
 
