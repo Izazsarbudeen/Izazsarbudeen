@@ -1,7 +1,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
-<a style="cursor:default;" href="https://satya.devh.in" target="_blank">
+<a style="cursor:default;" href="https://" target="_blank">
 <p align="center">
 <img src="https://telegra.ph/file/cb911401f594521dd5444.jpg" alt="Cowboy Hat Face" width="250" align="" height="250" />
 </p>
