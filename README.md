@@ -3,7 +3,7 @@
 
 <a style="cursor:default;" href="https://satya.devh.in" target="_blank">
 <p align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="250" align="" height="250" />
+<img src="https://telegra.ph/file/cb911401f594521dd5444.jpg" alt="Cowboy Hat Face" width="250" align="" height="250" />
 </p>
 </a>
 
