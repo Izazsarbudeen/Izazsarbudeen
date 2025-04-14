@@ -1,10 +1,10 @@
 # Izazsarbudeen-1
 
 <p align="center">
-  <img src="https://github.com/Izazsarbudeen/Izazsarbudeen-1/blob/main/IMG_20230117_152421.jpg" alt="Izaz S Arbudeen" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/Izazsarbudeen/Izazsarbudeen-1/blob/main/IMG_20230117_152421.jpg" alt="Izaz Sarbudeen" width="300" style="border-radius: 50%;" />
 </p>
 
-# 👋 Hi there! I'm Izaz S Arbudeen
+# 👋 Hi there! I'm Izaz Sarbudeen
 
 🚀 Electrical Engineer | 💡 Calibration & Automation | 🌐 Tech Explorer  
 📍 Currently working with Aramco OHTL Projects  
