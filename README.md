@@ -1,7 +1,7 @@
 # Izazsarbudeen-1
 
 <p align="center">
-  <img src="https://github.com/Izazsarbudeen/Izazsarbudeen-1/blob/main/IMG_20230117_152421.jpg" alt="Izaz Sarbudeen" width="300" style="border-radius: 50%;" />
+  <img src="https://github.com/Izazsarbudeen/Izazsarbudeen-1/blob/main/IMG_20230117_152421.jpg" alt="Izaz Sarbudeen" width="100%; " style="border-radius: 100%;" />
 </p>
 
 # 👋 Hi there! I'm Izaz Sarbudeen
