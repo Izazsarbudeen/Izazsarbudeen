@@ -26,6 +26,12 @@
 
 
 
+### 🎖️ GitHub Achievements (Visual)
+
+- 🦈 **Pull Shark** – Merged multiple PRs
+- 🤝 **Pair Extraordinaire** – Co-authored commits
+- 🚀 **YOLO** – First PR merged
+- ❄️ **Arctic Code Vault Contributor** – Contributed to open-source in 2020
 
 
 
