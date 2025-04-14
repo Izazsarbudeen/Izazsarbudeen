@@ -1,4 +1,4 @@
-# Izazsarbudeen-1
+# Izazsarbudeen.M - Electrical Engineer
 
 <p align="center">
   <img src="https://github.com/Izazsarbudeen/Izazsarbudeen-1/blob/main/IMG_20230117_152421.jpg" alt="Izaz Sarbudeen" width="100%; " style="border-radius: 100%;" />
